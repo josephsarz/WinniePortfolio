@@ -1,0 +1,13 @@
+.body {
+    background-image: url("img1.jpg");
+    background-color: '';
+    background-repeat: repeat-x;
+}
+
+.p{ 
+
+        margin-top: 10px;
+        margin-bottom: 80px;
+        margin-right: 0px;
+        margin-left: 80px;
+}
